@@ -1,0 +1,145 @@
+{
+  "Client": [
+    {
+      "id": "1",
+      "nuits": "3",
+      "nom": "jack",
+      "prenom": "alla",
+      "email": "alla@gmail.com",
+      "adress": "paris 7514 rue plumes"
+    },
+    {
+      "etap": 2,
+      "id": "nQBvZB_",
+      "qte": "1",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "emailError": "empty",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 1,
+      "id": "94OIqKW",
+      "qte": "1",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "emailError": "empty",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 2,
+      "id": "RGGQZLj",
+      "qte": "1",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "emailError": "empty",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 2,
+      "id": "EUTvaCV",
+      "qte": "2",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "",
+      "emailError": "empty",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 3,
+      "id": "h_TQIoz",
+      "qte": "2",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "@kjk",
+      "emailError": "",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 4,
+      "id": "s7zgCnc",
+      "qte": "2",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "@kjk",
+      "emailError": "",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 5,
+      "id": "v2LnvRG",
+      "qte": "2",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "@kjk",
+      "emailError": "",
+      "adress": "",
+      "selectedIndex": ""
+    },
+    {
+      "etap": 1,
+      "id": "czsFegN",
+      "qte": "2",
+      "nuitsError": "",
+      "nom": "",
+      "prenom": "",
+      "email": "@kjk",
+      "emailError": "",
+      "adress": "",
+      "selectedIndex": ""
+    }
+  ],
+  "Hotels": [
+    {
+      "id": "1",
+      "image": "assets/images/avatars/Hotel.jpg",
+      "nom": "HOTEL DE LA PLAGE",
+      "discription": " Hotels.c om est l’un des site s  leaders de la recherche d’hébergement en ligne. Nous  s  leaders de la recherche d’hébergement en ligne. Nous adorons les voyages.. Nous adorons les voyages. Chaque jourHotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour, nous attirons et nous inspirons des millions de voyageurs sur plus de 90 sites locaux traduits dans 41 langues. Si vous avez besoin de réserver un séjour dans un hôtel, une location de vacances, un complexe hôtelier, un appartement, une maison d’hôtes ou une cabane dans un arbre, nous sommes votre meilleur allié. Avec des centaines de milliers d’établissements répartis dans plus de 200 pays et territoires, vous aurez l’embarras du choix et vous profiterez de notre Garantie de prix. Notre site est très facile à utiliser et nous offrons également des outils en ligne novateurs et une application mobile primée.",
+      "prix": "400"
+    },
+    {
+      "id": "2",
+      "image": "assets/images/avatars/Hotel2.jpg",
+      "nom": "HOTEL DE LA PLAGE",
+      "discription": " Hotels.c om est l’un des site s  leaders de la recherche d’hébergement en ligne. Nous  s  leaders de la recherche d’hébergement en ligne. Nous adorons les voyages.. Nous adorons les voyages. Chaque jourHotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour, nous attirons et nous inspirons des millions de voyageurs sur plus de 90 sites locaux traduits dans 41 langues. Si vous avez besoin de réserver un séjour dans un hôtel, une location de vacances, un complexe hôtelier, un appartement, une maison d’hôtes ou une cabane dans un arbre, nous sommes votre meilleur allié. Avec des centaines de milliers d’établissements répartis dans plus de 200 pays et territoires, vous aurez l’embarras du choix et vous profiterez de notre Garantie de prix. Notre site est très facile à utiliser et nous offrons également des outils en ligne novateurs et une application mobile primée.",
+      "prix": "400"
+    },
+    {
+      "id": "3",
+      "image": "assets/images/avatars/Hotel3.jpg",
+      "nom": "HOTEL DE LA PLAGE",
+      "discription": " Hotels.c om est l’un des site s  leaders de la recherche d’hébergement en ligne. Nous  s  leaders de la recherche d’hébergement en ligne. Nous adorons les voyages.. Nous adorons les voyages. Chaque jourHotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour, nous attirons et nous inspirons des millions de voyageurs sur plus de 90 sites locaux traduits dans 41 langues. Si vous avez besoin de réserver un séjour dans un hôtel, une location de vacances, un complexe hôtelier, un appartement, une maison d’hôtes ou une cabane dans un arbre, nous sommes votre meilleur allié. Avec des centaines de milliers d’établissements répartis dans plus de 200 pays et territoires, vous aurez l’embarras du choix et vous profiterez de notre Garantie de prix. Notre site est très facile à utiliser et nous offrons également des outils en ligne novateurs et une application mobile primée.",
+      "prix": "400"
+    },
+    {
+      "id": "4",
+      "image": "assets/images/avatars/Hotel4.jpg",
+      "nom": "HOTEL DE LA PLAGE",
+      "discription": " Hotels.c om est l’un des site s  leaders de la recherche d’hébergement en ligne. Nous  s  leaders de la recherche d’hébergement en ligne. Nous adorons les voyages.. Nous adorons les voyages. Chaque jourHotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour, nous attirons et nous inspirons des millions de voyageurs sur plus de 90 sites locaux traduits dans 41 langues. Si vous avez besoin de réserver un séjour dans un hôtel, une location de vacances, un complexe hôtelier, un appartement, une maison d’hôtes ou une cabane dans un arbre, nous sommes votre meilleur allié. Avec des centaines de milliers d’établissements répartis dans plus de 200 pays et territoires, vous aurez l’embarras du choix et vous profiterez de notre Garantie de prix. Notre site est très facile à utiliser et nous offrons également des outils en ligne novateurs et une application mobile primée.",
+      "prix": "400"
+    },
+    {
+      "id": "5",
+      "image": "assets/images/avatars/Hotel5.jpg",
+      "nom": "HOTEL DE LA PLAGE",
+      "discription": " Hotels.c om est l’un des site s  leaders de la recherche d’hébergement en ligne. Nous  s  leaders de la recherche d’hébergement en ligne. Nous adorons les voyages.. Nous adorons les voyages. Chaque jourHotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour Hotels.com est l’un des sites leaders de la recherche d’hébergement en ligne. Nous adorons les voyages. Chaque jour, nous attirons et nous inspirons des millions de voyageurs sur plus de 90 sites locaux traduits dans 41 langues. Si vous avez besoin de réserver un séjour dans un hôtel, une location de vacances, un complexe hôtelier, un appartement, une maison d’hôtes ou une cabane dans un arbre, nous sommes votre meilleur allié. Avec des centaines de milliers d’établissements répartis dans plus de 200 pays et territoires, vous aurez l’embarras du choix et vous profiterez de notre Garantie de prix. Notre site est très facile à utiliser et nous offrons également des outils en ligne novateurs et une application mobile primée.",
+      "prix": "400"
+    }
+  ]
+}
